@@ -29,4 +29,4 @@ El proyecto comunicación inclusiva tiene como objetivo desarrollar un algoritmo
 ### Metodología
 El siguiente diagrama muestra los pasos necesarios para la clasificación de imagenes. 
 
-![alt text](diagrama.png "Etapas de un sistema de visión de máquina")
+![alt text](diagrama.PNG "Etapas de un sistema de visión de máquina")

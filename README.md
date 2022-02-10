@@ -965,3 +965,6 @@ joblib.dump(gnb, modelfilename)
     ['finalized_model.sav']
 
 
+    
+    
+El trabajo completo se encuentra en el archivo PruebaTotalPropia.ipynb . Adicionalmente el archivo TakePicture.ipynb permite capturar las fotos y guardarlas en la carpeta NewPictures

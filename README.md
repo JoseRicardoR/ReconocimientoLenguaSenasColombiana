@@ -30,3 +30,6 @@ El proyecto comunicación inclusiva tiene como objetivo desarrollar un algoritmo
 El siguiente diagrama muestra los pasos necesarios para la clasificación de imagenes. 
 
 ![alt text](diagrama.PNG "Etapas de un sistema de visión de máquina")
+
+  
+El trabajo completo se encuentra en el archivo PruebaTotalPropia.ipynb . Adicionalmente el archivo TakePicture.ipynb permite capturar las fotos y guardarlas en la carpeta NewPictures
